@@ -51,7 +51,7 @@ In head-to-head testing, GroundX significantly outperforms many popular RAG tool
 GroundX On-Prem allows you to leverage GroundX within hardened and secure environments. GroundX On-Prem requires no external dependencies when running, meaning it can be used in air-gapped environments. Deployment consists of two key steps:
 
 1. (Optional) Creation of Infrastructure on AWS via Terraform
-2. Deployment of GroundX onto Kubernetes via Helm
+2. Deployment of GroundX onto Kubernetes via Helm 
 
 Currently, creation of infrastructure via Terraform is only supported for AWS. However, with sufficient expertise GroundX can be deployed onto any pre-existing Kubernetes cluster.
 
